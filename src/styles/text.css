@@ -1,0 +1,7 @@
+.text-header {
+    @apply mb-2 text-2xl font-bold tracking-tight text-white;
+}
+
+.text-main {
+    @apply font-normal text-gray-400 leading-tight;
+}
